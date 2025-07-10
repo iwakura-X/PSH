@@ -3,7 +3,7 @@ from colorama import Fore, Back, Style
 import os
 import platform
 from datetime import datetime
-from auth import login_loop
+from utils.auth import login_loop
 import time
 
 current_user = login_loop()

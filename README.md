@@ -36,3 +36,6 @@ just run help in the command prompt
   - Logging
   - Error handling
   - And much more!!!
+
+
+P.S. Some commands are not working cuz they are not ready yet
