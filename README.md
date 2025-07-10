@@ -1,0 +1,45 @@
+# PSH (Python Shell) - Shell written fully in Python for Linux/MacOS, and Windows with python 3.6+
+#  ACHTUNG WARNING ВНИМАНИЕ 危險 ՎՏԱՆԳ!!!
+## This project is in open beta test, in ACTIVE DEVELOPING and ABSOLUTELY RAW DEVELOPING, and this project is pretty useless, I just want to see da ## feedback
+PSH is designed for those, who are tired of boring BASH/ZSH or cmd on Windows!
+BASH is boring, Python is power!
+
+## Installing & Running
+```bash
+git clone < link to the project that will be posted in the future >
+cd PSH
+pip install -r requirements.txt
+python3 /core/main.py
+```
+## Basic commands:
+just run help in the command prompt
+
+## Structure:
+* - means that this will be involved in future
+- '/core/' - shell's core (all magic is here)
+- '/core/commands' - commands (ls, or rm -rf /*)
+- '/scripts/' - user scripts (write, run, suffer) *
+- '/tests/' - shell's components tests (debug feature) *
+- '/utils/' - utilities (like logger, timer, etc.) *
+- '/data/' - user data(like passwords and logins)
+
+
+## Roadmap
+ v0.1
+  - Basic commands (like ls, or cd)
+ v0.2
+  - Full refactoring(from one 200+ lines file, to this)
+  - 
+ v0.3(planned)
+  - Scripts support
+  - More colors
+  - Commands history
+  - Logging
+  - Error handling
+  - Fix the fucking eval in calc
+  - And much more!!!
+
+## Wanna contribute?
+No problems! Just fork the repo, make any changes and push PR with changes description!
+
+P.S. Cool features = karma crystals

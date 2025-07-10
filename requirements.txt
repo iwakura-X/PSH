@@ -1,0 +1,9 @@
+colorama
+os
+haslib
+getpass
+platform
+datetime
+pathlib
+time
+sys

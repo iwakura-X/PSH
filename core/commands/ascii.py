@@ -1,0 +1,23 @@
+import time
+def sleep():
+    time.sleep(0.1)
+def command(args=None, context=None):
+    print('##########  ##########  ####  ####')
+    sleep()
+    print('##########  ##########  ####  ####')
+    sleep()
+    print('####  ####  ####  ####  ####  ####')
+    sleep()
+    print('####  ####  ####        ####  ####')
+    sleep()
+    print('##########  ##########  ##########')
+    sleep()
+    print('##########  ##########  ##########')
+    sleep()
+    print('####              ####  ####  ####')
+    sleep()
+    print('####        ####  ####  ####  ####')
+    sleep()
+    print('####        ##########  ####  ####')
+    sleep()
+    print('####        ##########  ####  ####|MIT license|v0.2|By iwakura')
