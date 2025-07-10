@@ -1,6 +1,7 @@
 # PSH (Python Shell) - cross-platform shell written fully in Python for Linux/MacOS, and Windows with python 3.6+
-#  ACHTUNG WARNING ВНИМАНИЕ 危險 ՎՏԱՆԳ!!!
+# ACHTUNG WARNING ВНИМАНИЕ 危險 ՎՏԱՆԳ!!!
 This project is in open beta test and was not intended for professional use!!!
+
 PSH is designed for those, who are tired of boring BASH/ZSH or cmd on Windows!
 ## Installing & Running
 ```bash
@@ -35,8 +36,3 @@ just run help in the command prompt
   - Logging
   - Error handling
   - And much more!!!
-
-## Wanna contribute?
-No problems! Just fork the repo, make any changes and push PR with changes description!
-
-P.S. Cool features = karma crystals
