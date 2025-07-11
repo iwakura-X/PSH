@@ -40,15 +40,15 @@ class Notepad:
         """Показывает справку по горячим клавишам"""
         help_text = [
             "Горячие клавиши:",
-            "F1        - Эта справка",
-            "F2        - Сохранить файл",
-            "F3        - Открыть файл",
-            "F10       - Выход",
-            "Del       - Удалить строку",
-            "Стрелки   - Навигация",
-            "Tab       - Отступ",
+            "F1        - This page",
+            "F2        - Save file",
+            "F3        - Open file",
+            "ctrl+c x2 - Exit",
+            "Del       - Delete string",
+            "Стрелки   - Navigation",
+            "Tab       - Tab",
             "",
-            "Нажмите любую клавишу чтобы продолжить..."
+            "Press any key to continue...(except for power key)"
         ]
         
         max_y, max_x = self.stdscr.getmaxyx()

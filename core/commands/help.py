@@ -20,7 +20,7 @@ def command(args=None, context=None):
 | File ops:
 | mkdir   - create dir
 | rmdir   - delete dir
-| aleph   - create or edit a file
+| aleph   - text editor (f1 for help)
 | rm      - delete file
 |
 | System:
