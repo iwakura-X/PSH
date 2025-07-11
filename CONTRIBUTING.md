@@ -2,9 +2,9 @@
 
 # Want to add new features? Here's how:
 
-    Fork the repository
+ - Fork the repository
 
-    Clone your fork:
+ - Clone your fork:
 ```bash
 
 git clone https://github.com/iwakura-X/PSH.git
@@ -24,9 +24,9 @@ git commit -m "Description of your changes"
 ```bash
 
     git push origin features
-
-    Open a Pull Request to features branch
 ```
+    Open a Pull Request to features branch
+
 # Important notes:
 
  - All feature development happens in features branch
