@@ -25,7 +25,7 @@ git commit -m "Description of your changes"
 
     git push origin features
 ```
-    Open a Pull Request to features branch
+Open a Pull Request to features branch
 
 # Important notes:
 
