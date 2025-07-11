@@ -8,8 +8,7 @@ PSH is designed for those, who are tired of boring BASH/ZSH or cmd on Windows!
 git clone https://github.com/iwakura-X/PSH.git
 cd PSH
 pip install -r requirements.txt
-python3 /core/main.py #on Windows
-sudo python3 main.py #on Linux/macOS, because of keyboard module in Aleph text editor
+python3 main.py
 ```
 ## Basic commands:
 just run help in the command prompt
