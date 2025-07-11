@@ -9,6 +9,7 @@ git clone https://github.com/iwakura-X/PSH.git
 cd PSH
 pip install -r requirements.txt
 python3 /core/main.py
+sudo python3 main.py #on Linux
 ```
 ## Basic commands:
 just run help in the command prompt
